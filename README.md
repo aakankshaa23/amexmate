@@ -7,3 +7,8 @@ Amex Mate is about transforming the stereotype of banking.  In this era of the p
 3.Saving Section- Dreaming of a car to buy but don't have enough savings, and manually adding spendings into any savings tracker seems tedious. Here, this savings tracker would show how much you have spent. Just enter the monthly budget and by analysing the transactions done, it will show whether you have exceeded the budget or are saving.
 
 Hence, using these use cases, we have tried to add hyper-personalization to fintech using open banking to make banking more convenient and personalized. It will be win-win situation for both AMEX and the user as user will now get a buddy who will assist them and AMEX will get to know their customer well which is definitely important for any organisation.
+
+Youtube Link: https://www.youtube.com/watch?v=4YA3_gAPGIY
+
+Rest Api: https://amex-mate.herokuapp.com/
+
